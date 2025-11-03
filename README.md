@@ -1,6 +1,5 @@
 # Explainable-Species-Distribution-Modelling
 
-# Hybrid DT-LLM-SDM
 **Hybrid Decision-Tree + Large Language Model Framework for Explainable Species Distribution Modelling**
 
 This repository contains the code accompanying the paper:
