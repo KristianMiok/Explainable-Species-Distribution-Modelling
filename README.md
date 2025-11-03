@@ -10,4 +10,3 @@ The project integrates **interpretable decision trees (DT)** with **LLM-derived 
 
 ---
 
-## 🧩 Repository structure
